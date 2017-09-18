@@ -185,3 +185,6 @@ sys.usb.rmnet.func.name=gsi
 
 # Wi-Fi
 wifi.interface=wlan0
+
+# Hack for Youtube
+sys.display-size=3840x2160
